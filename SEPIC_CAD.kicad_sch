@@ -1595,7 +1595,7 @@
     (property "Reference" "C12" (id 0) (at 226.06 76.2 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "66u" (id 1) (at 224.79 73.66 0)
+    (property "Value" "66u" (id 1) (at 226.06 73.66 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (id 2) (at 223.2152 80.01 0)
